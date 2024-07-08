@@ -1,0 +1,39 @@
+body{
+    font-family: "oswald", "sans-serif" ;
+}
+#container{
+    width: 80%;
+    margin: 0 auto;
+}
+img{
+    width: 30%;
+    margin: 0.5%;
+}
+#fotografo{
+    margin-top: 10%;
+    display: grid;
+}
+.fotografo{
+    width: 20%;
+    margin: 0 auto;
+    padding-right: 5%;
+}
+h3, h4{
+    text-align: center;
+    margin-right: 5%;
+}
+h1{
+    margin-left: 10.4%;
+    padding-bottom: 1px ;
+    width: 125px ;
+    font-size: 40px;
+    text-transform: uppercase;
+    border-bottom: 2px red solid;
+}
+#redes{
+    margin-left: 40.5%;
+}
+.Redes{ 
+    width: 5%;
+    margin-left: 1%;
+}
